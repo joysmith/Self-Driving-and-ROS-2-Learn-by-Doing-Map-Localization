@@ -1,19 +1,42 @@
-32. Motivation
-33. Random Variables
-34. Conditional Probability
-35. Probability Distributions
-36. Gaussian Distributions
-37. Total Probability Theorem
-38. Bayes Rule
-39. Sensor Noise
+32. [Motivation](#32)
+33. [Random Variables](#33)
+34. [Conditional Probability](#34)
+35. [Probability Distributions](#35)
+36. [Gaussian Distributions](#36)
+37. [Total Probability Theorem](#37)
+38. [Bayes Rule](#38)
+39. [Sensor Noise](#39)
 
 ---
 
-32. Motivation
-33. Random Variables
-34. Conditional Probability
-35. Probability Distributions
-36. Gaussian Distributions
-37. Total Probability Theorem
-38. Bayes Rule
-39. Sensor Noise
+### 32. Motivation<a id='32'></a>
+
+<br>
+
+### 33. Random Variables<a id='33'></a>
+
+<br>
+
+### 34. Conditional Probability<a id='34'></a>
+
+<br>
+
+### 35. Probability Distributions<a id='35'></a>
+
+<br>
+
+### 36. Gaussian Distributions<a id='36'></a>
+
+<br>
+
+### 37. Total Probability Theorem<a id='37'></a>
+
+<br>
+
+### 38. Bayes Rule<a id='38'></a>
+
+<br>
+
+### 39. Sensor Noise<a id='39'></a>
+
+<br>
