@@ -63,6 +63,16 @@ A combination of robot reference frame coordinate system with Human coordinate s
 
 ### 44. Gazebo Worlds and Models<a id='44'></a>
 
+To test robot on different environment
+<img src="assets/images/044/1.png" width="700">
+
+<br>
+
+We can create our own 3d model using blender3D
+<img src="assets/images/044/2.png" width="700">
+
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/05%20Gloabal%20localization/resources/Section5-Global_Localization.pdf)
+
 <br>
 
 ### 45. <LAB>Give an house to the Robot</LAB><a id='45'></a>
