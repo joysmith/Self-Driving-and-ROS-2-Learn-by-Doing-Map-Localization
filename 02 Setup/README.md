@@ -27,7 +27,9 @@ Documentation [ROS 2 Humble](https://docs.ros.org/en/jazzy/Installation/Ubuntu-I
 
 ### 10. <LAB>Install ROS 2 Humble on Ubuntu 22.04</LAB><a id='10'></a>
 
-Documentation [ROS 2 Humble](https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html)
+- Instruction [manual](https://github.com/joysmith/Self-Driving-and-ROS-2---Learn-by-Doing-Map-Localization/blob/main/02%20Setup/resources/Ubuntu%2B22.04%2BInstall%2BROS%2B2%2BHumble.pdf)
+
+- Documentation [ROS 2 Humble](https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html)
 
 ### 11. <LAB>Configure the Development Environment</LAB><a id='11'></a>
 
