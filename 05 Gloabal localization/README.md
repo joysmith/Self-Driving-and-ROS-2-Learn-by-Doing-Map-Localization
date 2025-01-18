@@ -288,11 +288,17 @@ we can measure following parameter
 
 ### 48. Global Localization<a id='48'></a>
 
+<img src="assets/images/048/1.png" width="700">
+
 - refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/05%20Gloabal%20localization/resources/Section5-Global_Localization.pdf)
 
 <br>
 
 ### 49. Wheel Odometry Errors<a id='49'></a>
+
+<img src="assets/images/049/1.png" width="700">
+
+<img src="assets/images/049/2.png" width="700">
 
 - refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/05%20Gloabal%20localization/resources/Section5-Global_Localization.pdf)
 
@@ -300,11 +306,21 @@ we can measure following parameter
 
 ### 50. Laser Odometry Errors<a id='50'></a>
 
+<img src="assets/images/050/1.png" width="700">
+
+<img src="assets/images/050/2.png" width="700">
+
+<img src="assets/images/050/3.png" width="700">
+
+<img src="assets/images/050/4.png" width="700">
+
 - refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/05%20Gloabal%20localization/resources/Section5-Global_Localization.pdf)
 
 <br>
 
 ### 51. The Real Purpose of Global Localization<a id='51'></a>
+
+<img src="assets/images/051/1.png" width="700">
 
 - refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/05%20Gloabal%20localization/resources/Section5-Global_Localization.pdf)
 
