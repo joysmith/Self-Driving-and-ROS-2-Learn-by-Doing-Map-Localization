@@ -248,25 +248,65 @@ small warehouse
 
 ### 46. Local and Global Localization<a id='46'></a>
 
+<img src="assets/images/046/1.png" width="700">
+
+map reference frame: fixed reference point
+odom reference frame: robot initial starting point for example robot charging station or home location
+base_link reference frame: reference pont of robot while in motion
+
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/05%20Gloabal%20localization/resources/Section5-Global_Localization.pdf)
+
 <br>
 
 ### 47. Local Localization<a id='47'></a>
+
+<img src="assets/images/047/1.png" width="700">
+
+<img src="assets/images/047/2.png" width="700">
+
+<img src="assets/images/047/3.png" width="700">
+
+<img src="assets/images/047/4.png" width="700">
+
+<img src="assets/images/047/5.png" width="700">
+
+<img src="assets/images/047/6.png" width="700">
+
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/05%20Gloabal%20localization/resources/Section5-Global_Localization.pdf)
+
+Notice:
+
+Odometry aka localization
+
+we can measure following parameter
+
+- robot speed in m/sec
+- robot distance in meter
+- robot time taken to travel distance in sec
 
 <br>
 
 ### 48. Global Localization<a id='48'></a>
 
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/05%20Gloabal%20localization/resources/Section5-Global_Localization.pdf)
+
 <br>
 
 ### 49. Wheel Odometry Errors<a id='49'></a>
+
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/05%20Gloabal%20localization/resources/Section5-Global_Localization.pdf)
 
 <br>
 
 ### 50. Laser Odometry Errors<a id='50'></a>
 
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/05%20Gloabal%20localization/resources/Section5-Global_Localization.pdf)
+
 <br>
 
 ### 51. The Real Purpose of Global Localization<a id='51'></a>
+
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/05%20Gloabal%20localization/resources/Section5-Global_Localization.pdf)
 
 <br>
 
