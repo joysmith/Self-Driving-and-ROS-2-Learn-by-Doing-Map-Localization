@@ -80,9 +80,12 @@ We can create our own 3d model using blender3D
 3d world by amazon[aws-robomaker-small-house-world](https://github.com/aws-robotics/aws-robomaker-small-house-world)
 
 1. Download following zip file and extract them
+
    - [world](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/05%20Gloabal%20localization/resources/45/worlds.zip)
    - [model](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/05%20Gloabal%20localization/resources/45/models.zip)
    - [photo](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/05%20Gloabal%20localization/resources/45/photos.zip)
+
+2. now copy all 3 folder(world, model, photo) in bumperbot_ws/src/bumperbot_description/
 
 <br>
 
