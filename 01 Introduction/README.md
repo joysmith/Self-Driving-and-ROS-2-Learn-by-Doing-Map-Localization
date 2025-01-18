@@ -23,6 +23,30 @@
 
 ### 3. Course Presentation<a id='3'></a>
 
+<img src="assets/images/003/1.png" width="700">
+
+<img src="assets/images/003/2.png" width="700">
+
+<img src="assets/images/003/3.png" width="700">
+
+<img src="assets/images/003/4.png" width="700">
+
+<img src="assets/images/003/5.png" width="700">
+
+<img src="assets/images/003/6.png" width="700">
+
+<img src="assets/images/003/7.png" width="700">
+
+<img src="assets/images/003/8.png" width="700">
+
+<img src="assets/images/003/9.png" width="700">
+
+<img src="assets/images/003/10.png" width="700">
+
+<img src="assets/images/003/11.png" width="700">
+
+<img src="assets/images/003/12.png" width="700">
+
 <br>
 
 ### 4. Meet your Teacher<a id='4'></a>
