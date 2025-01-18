@@ -23,24 +23,36 @@
 
 ### 34. Conditional Probability<a id='34'></a>
 
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/04%20Probability%20for%20robotics/resources/Section4-Probability_for_Robotics.pdf)
+
 <br>
 
 ### 35. Probability Distributions<a id='35'></a>
+
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/04%20Probability%20for%20robotics/resources/Section4-Probability_for_Robotics.pdf)
 
 <br>
 
 ### 36. Gaussian Distributions<a id='36'></a>
 
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/04%20Probability%20for%20robotics/resources/Section4-Probability_for_Robotics.pdf)
+
 <br>
 
 ### 37. Total Probability Theorem<a id='37'></a>
+
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/04%20Probability%20for%20robotics/resources/Section4-Probability_for_Robotics.pdf)
 
 <br>
 
 ### 38. Bayes Rule<a id='38'></a>
 
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/04%20Probability%20for%20robotics/resources/Section4-Probability_for_Robotics.pdf)
+
 <br>
 
 ### 39. Sensor Noise<a id='39'></a>
+
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/04%20Probability%20for%20robotics/resources/Section4-Probability_for_Robotics.pdf)
 
 <br>

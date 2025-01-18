@@ -22,6 +22,8 @@
 
 ### 40. Where am I ?<a id='40'></a>
 
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/05%20Gloabal%20localization/resources/Section5-Global_Localization.pdf)
+
 <br>
 
 ### 41. Robot Localization<a id='41'></a>
