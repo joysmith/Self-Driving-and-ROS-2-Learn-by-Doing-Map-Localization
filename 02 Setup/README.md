@@ -35,7 +35,7 @@ Documentation [ROS 2 Humble](https://docs.ros.org/en/jazzy/Installation/Ubuntu-I
 
 - Download and Install [VS code editor](https://code.visualstudio.com/download)
 - VS code extension for ROS [youtube link](https://www.youtube.com/watch?v=PBbEhRf8QjE&list=PL2dJBq8ig-vihvDVw-D5zAYOArTMIX0FA)
--
+- Downalod bumperbot [code](https://github.com/joysmith/Self-Driving-and-ROS-2---Learn-by-Doing-Map-Localization/blob/main/02%20Setup/resources/bumperbot_ws.zip)
 
 ### 12. <HWLAB>Configure the Development Environment in Raspberry Pi</HWLAB><a id='12'></a>
 
