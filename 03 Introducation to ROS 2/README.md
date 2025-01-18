@@ -19,6 +19,11 @@
 
 - [Slides]()
 
+Notice:
+
+-
+-
+
 ### 19. What is ROS 2<a id='19'>/<a>
 
 ### 20. Why a NEW Robot Operating System<a id='20'>/<a>
