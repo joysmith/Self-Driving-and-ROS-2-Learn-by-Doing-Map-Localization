@@ -73,21 +73,25 @@ If you are looking for something you’ll find it in the resources attached to t
 
 Here you will find all the code that we are going to develop during the course and here I’ll fix all the bugs that you will kindly report to me (and where I’ll add some new ones 🙂)
 
+#### Code
+
 [Github](https://github.com/AntoBrandi/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization)
 
-Here you will find the CAD and STL models of the robot components:
+#### Here you will find the CAD and STL models of the robot components:
 
 [STL of the Robot](https://drive.google.com/drive/folders/1zC3FLh2SO5ZTV7_gfTq6mb1malznKxjX)
 
 [CAD of the Robot](https://drive.google.com/drive/folders/1LK-31Wqt77E1MqK6rOLBmrO8tsrp96K_)
 
-Here you can find the STL files to feed your 3D Printer 🖨️
+#### Here you can find the STL files to feed your 3D Printer 🖨️
 
 [STL 3D Printer](https://drive.google.com/drive/folders/1KbKv_tV9Ur0QNMxUbI7MXCr7At-GKyDi)
 
-Here you will find the PDF with the slides of the lessons that you can use during the quiz😈:
+#### Here you will find the PDF with the slides of the lessons that you can use during the quiz😈:
 
 [Lesson's Slides](https://drive.google.com/drive/folders/1B17TVdUhaMX_aqlIAjHOYZsNzQbQxMiq)
+
+#### list of components & schematic
 
 Here you will find the list of components needed to assemble the robot, the sensors, and the electronic parts. I added some like where you can buy the components (I’m not affiliated with these stores, so I’m not earning anything from these purchases 😔 then buy from the store you prefer)
 
