@@ -33,6 +33,10 @@ Documentation [ROS 2 Humble](https://docs.ros.org/en/jazzy/Installation/Ubuntu-I
 
 ### 11. <LAB>Configure the Development Environment</LAB><a id='11'></a>
 
+- Download and Install [VS code editor](https://code.visualstudio.com/download)
+- VS code extension for ROS [youtube link](https://www.youtube.com/watch?v=PBbEhRf8QjE&list=PL2dJBq8ig-vihvDVw-D5zAYOArTMIX0FA)
+-
+
 ### 12. <HWLAB>Configure the Development Environment in Raspberry Pi</HWLAB><a id='12'></a>
 
 ### 13. <HWLAB>Install ROS 2 on Raspberry Pi</HWLAB><a id='13'></a>
