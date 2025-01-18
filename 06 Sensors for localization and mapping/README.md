@@ -33,39 +33,55 @@
 
 ### 59. What is a Map<a id='59'></a>
 
-- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/05%20Gloabal%20localization/resources/Section5-Global_Localization.pdf)
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/06%20Sensors%20for%20localization%20and%20mapping/resources/Section6-Sensors_for_Localization_and_Mapping.pdf)
 
 <br>
 
 ### 60. How Robots Perceive the World<a id='60'></a>
 
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/06%20Sensors%20for%20localization%20and%20mapping/resources/Section6-Sensors_for_Localization_and_Mapping.pdf)
+
 <br>
 
 ### 61. Sensors for Self-Driving Robots<a id='61'></a>
+
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/06%20Sensors%20for%20localization%20and%20mapping/resources/Section6-Sensors_for_Localization_and_Mapping.pdf)
 
 <br>
 
 ### 62. 1D Sensors - Sonar<a id='62'></a>
 
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/06%20Sensors%20for%20localization%20and%20mapping/resources/Section6-Sensors_for_Localization_and_Mapping.pdf)
+
 <br>
 
 ### 63. 2D Sensors - LiDAR<a id='63'></a>
+
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/06%20Sensors%20for%20localization%20and%20mapping/resources/Section6-Sensors_for_Localization_and_Mapping.pdf)
 
 <br>
 
 ### 64. <LAB>Add a 2D LiDAR to the Robot</LAB><a id='64'></a>
 
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/06%20Sensors%20for%20localization%20and%20mapping/resources/Section6-Sensors_for_Localization_and_Mapping.pdf)
+
 <br>
 
 ### 65. <LAB>Simulate a 2D LiDAR</LAB><a id='65'></a>
+
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/06%20Sensors%20for%20localization%20and%20mapping/resources/Section6-Sensors_for_Localization_and_Mapping.pdf)
 
 <br>
 
 ### 66. 3D Sensors - RGBD Cameras and 3D LiDAR<a id='66'></a>
 
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/06%20Sensors%20for%20localization%20and%20mapping/resources/Section6-Sensors_for_Localization_and_Mapping.pdf)
+
 <br>
 
 ### 67. Speed and Separation Monitoring<a id='67'></a>
+
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/06%20Sensors%20for%20localization%20and%20mapping/resources/Section6-Sensors_for_Localization_and_Mapping.pdf)
 
 <br>
 
