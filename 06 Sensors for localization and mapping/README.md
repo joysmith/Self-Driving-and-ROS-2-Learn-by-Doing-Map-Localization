@@ -33,17 +33,35 @@
 
 ### 59. What is a Map<a id='59'></a>
 
+<img src="assets/images/059/1.png" width="700">
+
+<img src="assets/images/059/2.png" width="700">
+
+<img src="assets/images/059/3.png" width="700">
+
+<img src="assets/images/059/4.png" width="700">
+
 - refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/06%20Sensors%20for%20localization%20and%20mapping/resources/Section6-Sensors_for_Localization_and_Mapping.pdf)
 
 <br>
 
 ### 60. How Robots Perceive the World<a id='60'></a>
 
+<img src="assets/images/060/1.png" width="700">
+
+<img src="assets/images/060/2.png" width="700">
+
 - refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/06%20Sensors%20for%20localization%20and%20mapping/resources/Section6-Sensors_for_Localization_and_Mapping.pdf)
+
+Note:
+
+- accuracy of map depend upon accuracy of sensor
 
 <br>
 
 ### 61. Sensors for Self-Driving Robots<a id='61'></a>
+
+<img src="assets/images/061/1.png" width="700">
 
 - refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/06%20Sensors%20for%20localization%20and%20mapping/resources/Section6-Sensors_for_Localization_and_Mapping.pdf)
 
@@ -51,11 +69,46 @@
 
 ### 62. 1D Sensors - Sonar<a id='62'></a>
 
+Ultrasonic wave propagation
+<img src="assets/images/062/1.png" width="700">
+
+How to measure distance between robot and obstacle
+<img src="assets/images/062/2.png" width="700">
+
+<br>
+
+#### measurement error
+
+Ultrasonic wave propagation speed changes in diff. medium
+<img src="assets/images/062/3.png" width="700">
+
+<br>
+
+Ultrasonic wave deflected to another angle due shape of obstacle
+<img src="assets/images/062/4.png" width="700">
+
+<br>
+
+Some materials absorb sound waves
+<img src="assets/images/062/5.png" width="700">
+
 - refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/06%20Sensors%20for%20localization%20and%20mapping/resources/Section6-Sensors_for_Localization_and_Mapping.pdf)
 
 <br>
 
 ### 63. 2D Sensors - LiDAR<a id='63'></a>
+
+<img src="assets/images/063/1.png" width="700">
+
+<img src="assets/images/063/2.png" width="700">
+
+<br>
+
+#### measurement error
+
+<img src="assets/images/063/3.png" width="700">
+
+<img src="assets/images/063/4.png" width="700">
 
 - refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/06%20Sensors%20for%20localization%20and%20mapping/resources/Section6-Sensors_for_Localization_and_Mapping.pdf)
 
