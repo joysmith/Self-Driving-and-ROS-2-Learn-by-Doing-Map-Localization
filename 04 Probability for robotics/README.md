@@ -17,6 +17,8 @@
 
 ### 33. Random Variables<a id='33'></a>
 
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/04%20Probability%20for%20robotics/resources/Section4-Probability_for_Robotics.pdf)
+
 <br>
 
 ### 34. Conditional Probability<a id='34'></a>
