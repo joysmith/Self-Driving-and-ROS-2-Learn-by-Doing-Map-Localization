@@ -85,7 +85,7 @@ We can create our own 3d model using blender3D
    - [model](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/05%20Gloabal%20localization/resources/45/models.zip)
    - [photo](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/05%20Gloabal%20localization/resources/45/photos.zip)
 
-2. now copy all 3 folder(world, model, photo) in bumperbot_ws/src/bumperbot_description/
+2. now cut all 3 folder(world, model, photo) and paste in bumperbot_ws/src/bumperbot_description/---here---
 
 <br>
 
