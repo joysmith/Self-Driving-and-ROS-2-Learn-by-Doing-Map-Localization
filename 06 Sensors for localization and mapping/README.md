@@ -128,6 +128,10 @@ Some materials absorb sound waves
 
 ### 66. 3D Sensors - RGBD Cameras and 3D LiDAR<a id='66'></a>
 
+<img src="assets/images/066/1.png" width="700">
+
+<img src="assets/images/066/2.png" width="700">
+
 - refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/06%20Sensors%20for%20localization%20and%20mapping/resources/Section6-Sensors_for_Localization_and_Mapping.pdf)
 
 <br>
