@@ -19,37 +19,55 @@
 
 - [Slides](https://github.com/joysmith/Self-Driving-and-ROS-2---Learn-by-Doing-Map-Localization/blob/main/03%20Introducation%20to%20ROS%202/resources/Section3-Introduction-to-ROS-2.pdf)
 
+<br>
+
 ### 19. What is ROS 2<a id='19'>/<a>
 
 - [Slides](https://github.com/joysmith/Self-Driving-and-ROS-2---Learn-by-Doing-Map-Localization/blob/main/03%20Introducation%20to%20ROS%202/resources/Section3-Introduction-to-ROS-2.pdf)
+
+<br>
 
 ### 20. Why a NEW Robot Operating System<a id='20'>/<a>
 
 - [Slides](https://github.com/joysmith/Self-Driving-and-ROS-2---Learn-by-Doing-Map-Localization/blob/main/03%20Introducation%20to%20ROS%202/resources/Section3-Introduction-to-ROS-2.pdf)
 
+<br>
+
 ### 21. ROS 2 Architecture<a id='21'>/<a>
 
 - [Slides](https://github.com/joysmith/Self-Driving-and-ROS-2---Learn-by-Doing-Map-Localization/blob/main/03%20Introducation%20to%20ROS%202/resources/Section3-Introduction-to-ROS-2.pdf)
+
+<br>
 
 ### 22. Hardware Abstraction<a id='22'>/<a>
 
 - [Slides](https://github.com/joysmith/Self-Driving-and-ROS-2---Learn-by-Doing-Map-Localization/blob/main/03%20Introducation%20to%20ROS%202/resources/Section3-Introduction-to-ROS-2.pdf)
 
+<br>
+
 ### 23. Low-Level Device Control<a id='23'>/<a>
 
 - [Slides](https://github.com/joysmith/Self-Driving-and-ROS-2---Learn-by-Doing-Map-Localization/blob/main/03%20Introducation%20to%20ROS%202/resources/Section3-Introduction-to-ROS-2.pdf)
+
+<br>
 
 ### 24. Messaging Between Process<a id='24'>/<a>
 
 - [Slides](https://github.com/joysmith/Self-Driving-and-ROS-2---Learn-by-Doing-Map-Localization/blob/main/03%20Introducation%20to%20ROS%202/resources/Section3-Introduction-to-ROS-2.pdf)
 
+<br>
+
 ### 25. Package Management<a id='25'>/<a>
 
 - [Slides](https://github.com/joysmith/Self-Driving-and-ROS-2---Learn-by-Doing-Map-Localization/blob/main/03%20Introducation%20to%20ROS%202/resources/Section3-Introduction-to-ROS-2.pdf)
 
+<br>
+
 ### 26. Architecture of a ROS 2 Application<a id='26'>/<a>
 
 - [Slides](https://github.com/joysmith/Self-Driving-and-ROS-2---Learn-by-Doing-Map-Localization/blob/main/03%20Introducation%20to%20ROS%202/resources/Section3-Introduction-to-ROS-2.pdf)
+
+<br>
 
 ### 27. <LAB>Create and Activate a Worksapce</LAB><a id='27'>/<a>
 
@@ -92,6 +110,8 @@ ros2 pkg list
 ```
 
 Note: always source the package whenever opening the new terminal, else terminal wont add created package
+
+<br>
 
 ### 28. <PY>Simple Publisher</PY><a id='28'>/<a>
 
@@ -248,9 +268,11 @@ ros2 topic info /chatter --verbose
 ros2 topic hz /chatter
 ```
 
-10.
+<br>
 
 ### 29. <C++>Simple Publisher</C++><a id='29'>/<a>
+
+<br>
 
 ### 30. <PY>Simple Subscriber</PY><a id='30'>/<a>
 
@@ -363,5 +385,7 @@ ros2 topic pub /chatter std_msgs/msg/string "data: 'Hello ROS 2'"
 # . install/setup.bash
 # ros2 run bumperbot_cpp_examples simple_publisher
 ```
+
+<br>
 
 ### 31. <C++>Simple Subscriber</C++><a id='31'>/<a>

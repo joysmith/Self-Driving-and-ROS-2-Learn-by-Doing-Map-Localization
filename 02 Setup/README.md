@@ -17,19 +17,27 @@
 
 refer section
 
+<br>
+
 ### 8. Install Ubuntu on Dual Boot<a id='8'></a>
 
 refer section
 
+<br>
+
 ### 9. <LAB>Install ROS 2 Jazzy on Ubuntu 24.04</LAB><a id='9'></a>
 
 Documentation [ROS 2 Humble](https://docs.ros.org/en/jazzy/Installation/Ubuntu-Install-Debs.html)
+
+<br>
 
 ### 10. <LAB>Install ROS 2 Humble on Ubuntu 22.04</LAB><a id='10'></a>
 
 - Instruction [manual](https://github.com/joysmith/Self-Driving-and-ROS-2---Learn-by-Doing-Map-Localization/blob/main/02%20Setup/resources/Ubuntu%2B22.04%2BInstall%2BROS%2B2%2BHumble.pdf)
 
 - Documentation [ROS 2 Humble](https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html)
+
+<br>
 
 ### 11. <LAB>Configure the Development Environment</LAB><a id='11'></a>
 
@@ -70,6 +78,8 @@ sudo apt-get install python3-pip
 pip install transforms3d
 ```
 
+<br>
+
 ### 12. <HWLAB>Configure the Development Environment in Raspberry Pi</HWLAB><a id='12'></a>
 
 - Download [Raspberry pi image](https://www.raspberrypi.com/software/)
@@ -88,7 +98,11 @@ File /etc/udev/rules.d/99-arduino.rules
 SUBSYSTEMS=="usb", ATTRS{idVendor}=="2341", GROUP="plugdev", MODE="0666
 ```
 
+<br>
+
 ### 13. <HWLAB>Install ROS 2 on Raspberry Pi</HWLAB><a id='13'></a>
+
+<br>
 
 ### 14. <LAB>Getting Started with the Simulated Robot</LAB><a id='14'></a>
 
@@ -141,8 +155,14 @@ rviz2
 
 <img src="assets/images/014/10.png" width="700">
 
+<br>
+
 ### 15. <HWLAB>Assemble the Robot - Part 1</HWLAB><a id='15'></a>
 
+<br>
+
 ### 16. <HWLAB>Assemble the Robot - Part 2</HWLAB><a id='16'></a>
+
+<br>
 
 ### 17. <HWLAB>Assemble the Robot - Part 3</HWLAB><a id='17'></a>
