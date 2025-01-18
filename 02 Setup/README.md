@@ -15,11 +15,19 @@
 
 ### 7. Install Ubuntu on Virtual Machine<a id='7'></a>
 
+refer section
+
 ### 8. Install Ubuntu on Dual Boot<a id='8'></a>
+
+refer section
 
 ### 9. <LAB>Install ROS 2 Jazzy on Ubuntu 24.04</LAB><a id='9'></a>
 
+Documentation [ROS 2 Humble](https://docs.ros.org/en/jazzy/Installation/Ubuntu-Install-Debs.html)
+
 ### 10. <LAB>Install ROS 2 Humble on Ubuntu 22.04</LAB><a id='10'></a>
+
+Documentation [ROS 2 Humble](https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html)
 
 ### 11. <LAB>Configure the Development Environment</LAB><a id='11'></a>
 
