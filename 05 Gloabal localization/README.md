@@ -77,7 +77,12 @@ We can create our own 3d model using blender3D
 
 ### 45. <LAB>Give an house to the Robot</LAB><a id='45'></a>
 
-1. 3d world by amazon[aws-robomaker-small-house-world](https://github.com/aws-robotics/aws-robomaker-small-house-world)
+3d world by amazon[aws-robomaker-small-house-world](https://github.com/aws-robotics/aws-robomaker-small-house-world)
+
+1. Download following zip file and extract them
+   - []()
+   - []()
+   - []()
 
 <br>
 
