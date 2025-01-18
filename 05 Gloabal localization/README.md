@@ -97,7 +97,10 @@ We can create our own 3d model using blender3D
 
 ```py
 import os
+
+# 5️⃣ import pathsep from os module
 from os import pathsep
+
 from pathlib import Path
 from ament_index_python.packages import get_package_share_directory
 
@@ -132,13 +135,14 @@ def generate_launch_description():
         ]
     )
 
+# 4️⃣ setting up 3d-models path
     model_path = str(Path(bumperbot_description).parent.resolve())
     model_path += pathsep + os.path.join(get_package_share_directory("bumperbot_description"), 'models')
-
     gazebo_resource_path = SetEnvironmentVariable(
         "GZ_SIM_RESOURCE_PATH",
         model_path
         )
+
 
     ros_distro = os.environ["ROS_DISTRO"]
     is_ignition = "True" if ros_distro == "humble" else "False"
@@ -190,7 +194,10 @@ def generate_launch_description():
 
     return LaunchDescription([
         model_arg,
+
+        # 6️⃣ adding
         world_name_arg,
+
         gazebo_resource_path,
         robot_state_publisher_node,
         gazebo,
@@ -198,6 +205,44 @@ def generate_launch_description():
         gz_ros2_bridge
     ])
 ```
+
+5. Open bumperbot_ws in terminal
+
+```sh
+colcon build
+```
+
+6. ctrl + shift + o: To open new Terminal window on bottom, in same bumperbot_ws
+
+```sh
+. install/setup.bash
+
+# launch simulation also connect gamepad with pc
+ros2 launch bumperbot_description gazebo.launch.py
+# stop simulation
+
+
+# launch simulation in new setting i.e small house
+ros2 launch bumperbot_description gazebo.launch.py world_name:=small_house
+# stop simulation
+
+# launch simulation in new setting i.e small warehouse
+ros2 launch bumperbot_description gazebo.launch.py world_name:=small_warehouse
+
+```
+
+default
+<img src="assets/images/045/3.png" width="700">
+
+<br>
+
+small house
+<img src="assets/images/045/4.png" width="700">
+
+<br>
+
+small warehouse
+<img src="assets/images/045/5.png" width="700">
 
 <br>
 
