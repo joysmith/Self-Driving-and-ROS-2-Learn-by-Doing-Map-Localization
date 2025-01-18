@@ -28,13 +28,36 @@
 
 ### 41. Robot Localization<a id='41'></a>
 
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/05%20Gloabal%20localization/resources/Section5-Global_Localization.pdf)
+
 <br>
 
 ### 42. Robotics Convention for Localization<a id='42'></a>
 
+<img src="assets/images/042/1.png" width="700">
+
+<img src="assets/images/042/2.png" width="700">
+
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/05%20Gloabal%20localization/resources/Section5-Global_Localization.pdf)
+
 <br>
 
 ### 43. Why a Robotics Convention for Localization?<a id='43'></a>
+
+A company created his robot reference frame
+<img src="assets/images/043/1.png" width="700">
+
+<br>
+
+A company robot reference frame coordinate system Vs Human coordinate system
+<img src="assets/images/043/2.png" width="700">
+
+<br>
+
+A combination of robot reference frame coordinate system with Human coordinate system
+<img src="assets/images/043/3.png" width="700">
+
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/05%20Gloabal%20localization/resources/Section5-Global_Localization.pdf)
 
 <br>
 
