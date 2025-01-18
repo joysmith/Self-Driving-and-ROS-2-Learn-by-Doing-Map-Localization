@@ -99,7 +99,7 @@ Note: always source the package whenever opening the new terminal, else terminal
 
 <img src="assets/images/028/1.png" width="700">
 
-2. create simple_publisher.py-file under bumperbot_py_examples
+2. create simple_publisher.py-file under bumperbot_py_examples-folder
 
 <img src="assets/images/028/2.png" width="700">
 
@@ -253,5 +253,115 @@ ros2 topic hz /chatter
 ### 29. <C++>Simple Publisher</C++><a id='29'>/<a>
 
 ### 30. <PY>Simple Subscriber</PY><a id='30'>/<a>
+
+1. Create new simple_subscriber.py-file under bumperbot_py_examples-folder
+
+<img src="assets/images/030/1.png" width="700">
+
+```sh
+import rclpy
+from rclpy.node import Node
+from std_msgs.msg import String
+
+
+class SimpleSubscriber(Node):
+
+# Constructor function
+    def __init__(self):
+        super().__init__("simple_subscriber")
+        self.sub_ = self.create_subscription(String, "chatter", self.msgCallback, 10)
+        self.sub_
+
+    def msgCallback(self, msg):
+        self.get_logger().info("I heard: %s" % msg.data)
+
+
+# automatic executable function
+def main():
+    rclpy.init()
+
+    # create new instance of SimpleSubscriber
+    simple_publisher = SimpleSubscriber()
+    rclpy.spin(simple_publisher)
+
+    simple_publisher.destroy_node()
+    rclpy.shutdown()
+
+
+if __name__ == '__main__':
+    main()
+```
+
+2. Open setup.py-file
+
+<img src="assets/images/030/2.png" width="700">
+
+```py
+from setuptools import setup
+
+package_name = 'bumperbot_py_examples'
+
+setup(
+    name=package_name,
+    version='0.0.0',
+    packages=[package_name],
+    data_files=[
+        ('share/ament_index/resource_index/packages',
+            ['resource/' + package_name]),
+        ('share/' + package_name, ['package.xml']),
+    ],
+    install_requires=['setuptools'],
+    zip_safe=True,
+    maintainer='user',
+    maintainer_email='antonio.brandi@outlook.it',
+    description='ROS 2 Code Examples',
+    license='Apache 2.0',
+    tests_require=['pytest'],
+    entry_points={
+        'console_scripts': [
+            'simple_publisher = bumperbot_py_examples.simple_publisher:main',
+
+            # 1️⃣ adding script
+            'simple_subscriber = bumperbot_py_examples.simple_subscriber:main',
+        ],
+    },
+)
+```
+
+#### 1:Terminal
+
+3. Open bumperbot_ws with terminal
+
+```sh
+# bumperbot_ws
+colcon build
+```
+
+#### 2:Terminal
+
+4. ctrl + shift + o: To open new Terminal window on bottom, in same bumperbot_ws
+
+```sh
+# sourcing file
+. install/setup.bash
+
+# run
+ros2 run bumperbot_py_examples simple_subscriber
+```
+
+#### 3:Terminal
+
+5. Testing topic: ctrl + shift + o: To open new Terminal window on bottom, in same bumperbot_ws
+
+```sh
+ros2 topic list
+
+ros2 topic info /chatter --verbose
+
+ros2 topic pub /chatter std_msgs/msg/string "data: 'Hello ROS 2'"
+
+# . install/setup.bash
+# ros2 run bumperbot_cpp_examples simple_publisher
+```
 
 ### 31. <C++>Simple Subscriber</C++><a id='31'>/<a>
