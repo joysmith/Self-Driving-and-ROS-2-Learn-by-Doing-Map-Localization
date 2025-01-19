@@ -21,6 +21,14 @@
 
 ### 89. Map Representation<a id="89"></a>
 
+<img src="assets/images/089/1.png" width="700">
+
+<img src="assets/images/089/2.png" width="700">
+
+<img src="assets/images/089/3.png" width="700">
+
+<img src="assets/images/089/4.png" width="700">
+
 - refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/07%20Map%20representation/resources/Section7-Map_Representations.pdf)
 
 <br>
