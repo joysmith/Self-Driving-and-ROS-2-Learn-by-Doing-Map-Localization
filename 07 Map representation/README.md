@@ -90,11 +90,20 @@ Usage of marked to tell robot topology
 - Octree article [Wikipedia](https://en.wikipedia.org/wiki/Octree)
 - Octomap [Octomap](https://octomap.github.io/)
 
+Notice
+
+- voxel: volumetric pixel
+- By using camera depth sensor we are creating **minecraft** 3d game
+- so basically im learning game development again
+
 <br>
 
 ### 93. Introduction to Nav2<a id="93"></a>
 
+<img src="assets/images/093/1.png" width="700">
+
 - refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/07%20Map%20representation/resources/Section7-Map_Representations.pdf)
+- Documentation [nav2](https://docs.nav2.org/)
 
 <br>
 
