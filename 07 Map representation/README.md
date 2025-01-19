@@ -25,15 +25,25 @@
 
 <img src="assets/images/089/2.png" width="700">
 
-<img src="assets/images/089/3.png" width="700">
-
-<img src="assets/images/089/4.png" width="700">
-
 - refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/07%20Map%20representation/resources/Section7-Map_Representations.pdf)
 
 <br>
 
 ### 90. Topological Maps<a id="90"></a>
+
+<img src="assets/images/090/1.png" width="700">
+
+<img src="assets/images/090/2.png" width="700">
+
+<img src="assets/images/090/3.png" width="700">
+
+<img src="assets/images/090/4.png" width="700">
+
+Usage of beacon to tell robot topology
+<img src="assets/images/090/5.png" width="700">
+
+Usage of marked to tell robot topology
+<img src="assets/images/090/6.png" width="700">
 
 - refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/07%20Map%20representation/resources/Section7-Map_Representations.pdf)
 
@@ -41,13 +51,44 @@
 
 ### 91. OccupancyGrid<a id="91"></a>
 
+<img src="assets/images/091/1.png" width="700">
+
+<img src="assets/images/091/2.png" width="700">
+
+<img src="assets/images/091/3.png" width="700">
+
+<img src="assets/images/091/4.png" width="700">
+
 - refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/07%20Map%20representation/resources/Section7-Map_Representations.pdf)
 
 <br>
 
 ### 92. Octomap and Voxel Grids<a id="92"></a>
 
+<img src="assets/images/092/1.png" width="700">
+
+<img src="assets/images/092/2.png" width="700">
+
+<img src="assets/images/092/3.png" width="700">
+
+<img src="assets/images/092/4.png" width="700">
+
+<img src="assets/images/092/5.png" width="700">
+
+<img src="assets/images/092/6.png" width="700">
+
+<img src="assets/images/092/7.png" width="700">
+
+<img src="assets/images/092/8.png" width="700">
+
+<img src="assets/images/092/9.png" width="700">
+
+<img src="assets/images/092/10.png" width="700">
+
 - refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/07%20Map%20representation/resources/Section7-Map_Representations.pdf)
+
+- Octree article [Wikipedia](https://en.wikipedia.org/wiki/Octree)
+- Octomap [Octomap](https://octomap.github.io/)
 
 <br>
 
