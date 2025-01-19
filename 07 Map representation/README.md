@@ -21,25 +21,37 @@
 
 ### 89. Map Representation<a id="89"></a>
 
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/07%20Map%20representation/resources/Section7-Map_Representations.pdf)
+
 <br>
 
 ### 90. Topological Maps<a id="90"></a>
+
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/07%20Map%20representation/resources/Section7-Map_Representations.pdf)
 
 <br>
 
 ### 91. OccupancyGrid<a id="91"></a>
 
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/07%20Map%20representation/resources/Section7-Map_Representations.pdf)
+
 <br>
 
 ### 92. Octomap and Voxel Grids<a id="92"></a>
+
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/07%20Map%20representation/resources/Section7-Map_Representations.pdf)
 
 <br>
 
 ### 93. Introduction to Nav2<a id="93"></a>
 
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/07%20Map%20representation/resources/Section7-Map_Representations.pdf)
+
 <br>
 
 ### 94. ROS 2 Lifecycle Nodes<a id="94"></a>
+
+- refer [slides](https://github.com/joysmith/Self-Driving-and-ROS-2-Learn-by-Doing-Map-Localization/blob/main/07%20Map%20representation/resources/Section7-Map_Representations.pdf)
 
 <br>
 
