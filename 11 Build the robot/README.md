@@ -12,9 +12,13 @@
 
 ### 145. Mechanics and Electronics<a id='145'></a>
 
+<img src="assets/images/145/1.png" width="700">
+
 <br>
 
 ### 146. What you are going to need<a id='146'></a>
+
+<img src="assets/images/146/1.png" width="700">
 
 <br>
 
