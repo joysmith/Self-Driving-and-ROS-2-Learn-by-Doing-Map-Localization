@@ -24,6 +24,44 @@
 
 ### 147. ROS 2 Drivers<a id='147'></a>
 
+1.  RPlidar setup
+
+#### 1 Terminal
+```sh
+# install rplidar driver
+sudo apt install ros-humble-rplidar-ros
+```
+
+#### 2 Terminal
+```sh
+# 1 Way: press TAB to know the usb port
+ls /dev/ttyUSB
+# ls /dev/ttyUSB0
+
+# 2 Way: to find out where rplidar is connected
+ls /dev | grep ttyUSB
+```
+
+#### 1 Terminal
+```sh
+ros2 launch rplidar_ros rplidar_a1_launch-py serial_port:=/dev/ttyUSB0
+
+```
+
+#### 2 Terminal
+```sh
+ros2 topic list
+ros2 topic echo /scan
+
+ctrl + c
+rviz
+```
+
+#### rviz
+1. In "Rviz" click on add-->by display type--> rviz_default_plugin-->LaserScan--> ok
+2. Under "Display" -->laser scan-->Topic:/scan
+3. Under "Display" -->Global Options-->Fixed frame:laser
+4. (OPTIONAL) Under "Display"-->LaserScan-->Size(m):0.03
 <br>
 
 ### 148. <HWLAB>Laser Scanner ROS 2 Driver</HWLAB><a id='148'></a>
