@@ -30,6 +30,8 @@
 ```sh
 # install rplidar driver
 sudo apt install ros-humble-rplidar-ros
+
+
 ```
 
 #### 2 Terminal
@@ -44,7 +46,7 @@ ls /dev | grep ttyUSB
 
 #### 1 Terminal
 ```sh
-ros2 launch rplidar_ros rplidar_a1_launch-py serial_port:=/dev/ttyUSB0
+ros2 launch rplidar_ros rplidar_a1_launch.py serial_port:=/dev/ttyUSB0
 
 ```
 
@@ -62,6 +64,7 @@ rviz
 2. Under "Display" -->laser scan-->Topic:/scan
 3. Under "Display" -->Global Options-->Fixed frame:laser
 4. (OPTIONAL) Under "Display"-->LaserScan-->Size(m):0.03
+
 <br>
 
 ### 148. <HWLAB>Laser Scanner ROS 2 Driver</HWLAB><a id='148'></a>
